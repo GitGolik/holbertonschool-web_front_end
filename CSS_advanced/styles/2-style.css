@@ -1,0 +1,6 @@
+/* Task 2 - A global font stack */
+
+html {
+  scroll-behavior: smooth;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
